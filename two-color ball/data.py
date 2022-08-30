@@ -38,4 +38,3 @@ print(sorted_x)
 # # 获取第3行第3列的单元格的数据
 # x_3_y_3 = sheet1.cell(2, 2).value
 # print('第3行第3列的单元格的值：', x_3_y_3)
-
