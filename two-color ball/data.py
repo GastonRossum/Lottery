@@ -3,6 +3,7 @@ import xlrd
 import numpy as np
 import pandas as pd
 from collections import Counter
+# http://kaijiang.500.com/static/info/kaijiang/xml/ssq/list.xml?_A=BLWXUIYA1546584359929   #往期数据获取网站
 # 打开实验数据表格
 book = xlrd.open_workbook(r'/Daily/Lottery/data/alll.xls')
 # 选择页数为第1页
